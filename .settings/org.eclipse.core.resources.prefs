@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//first/first/items.py=utf-8
+encoding//first/first/middlewares.py=utf-8
+encoding//first/first/pipelines.py=utf-8
+encoding//first/first/settings.py=utf-8
+encoding//first/first/spiders/demo1.py=utf-8
+encoding//first/first/spiders/qsbk.py=utf-8
+encoding//first/qsauto/qsauto/items.py=utf-8
+encoding//first/qsauto/qsauto/pipelines.py=utf-8
+encoding//first/qsauto/qsauto/settings.py=utf-8
+encoding//first/qsauto/qsauto/spiders/qiushi.py=utf-8
+encoding//ts/ts/items.py=utf-8
+encoding//ts/ts/pipelines.py=utf-8
+encoding//ts/ts/settings.py=utf-8
+encoding//ts/ts/spiders/lesson.py=utf-8
