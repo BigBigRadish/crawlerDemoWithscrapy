@@ -33,8 +33,8 @@ class DbSpider(scrapy.Spider):
         else:
             print("此时没有验证码")
             data={
-                "form_email":"luozhukun@163.com",
-                "form_password":"lzk15884706478",
+                "form_email":"xxxxx",
+                "form_password":"xxxx",
                 "redir":"https://www.douban.com/people/80285237/",
             }
         print("登陆中……")
