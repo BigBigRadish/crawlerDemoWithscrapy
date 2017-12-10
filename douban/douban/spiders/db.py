@@ -25,8 +25,8 @@ class DbSpider(scrapy.Spider):
             captcha_value=input()
 
             data={
-                "form_email":"luozhukun@163.com",
-                "form_password":"lzk15884706478",
+                "form_email":"xxxx",
+                "form_password":"xxxxx",
                 "captcha-solution":captcha_value,
                 "redir":"https://www.douban.com/people/80285237/",
             }
