@@ -1,5 +1,6 @@
 eclipse.preferences.version=1
 encoding//dangdang/dangdang/items.py=utf-8
+encoding//dangdang/dangdang/middlewares.py=utf-8
 encoding//dangdang/dangdang/pipelines.py=utf-8
 encoding//dangdang/dangdang/settings.py=utf-8
 encoding//dangdang/dangdang/spiders/dd.py=utf-8

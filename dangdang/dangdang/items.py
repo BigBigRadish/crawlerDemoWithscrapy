@@ -13,4 +13,4 @@ class DangdangItem(scrapy.Item):
     # name = scrapy.Field()
     title=scrapy.Field()
     link=scrapy.Field()
-    comment=scrapy.Field()
+    comments=scrapy.Field()
