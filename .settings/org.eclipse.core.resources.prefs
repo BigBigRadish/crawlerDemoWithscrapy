@@ -1,4 +1,11 @@
 eclipse.preferences.version=1
+encoding//dangdang/dangdang/items.py=utf-8
+encoding//dangdang/dangdang/pipelines.py=utf-8
+encoding//dangdang/dangdang/settings.py=utf-8
+encoding//dangdang/dangdang/spiders/dd.py=utf-8
+encoding//douban/douban/items.py=utf-8
+encoding//douban/douban/middlewares.py=utf-8
+encoding//douban/douban/pipelines.py=utf-8
 encoding//douban/douban/settings.py=utf-8
 encoding//douban/douban/spiders/db.py=utf-8
 encoding//first/first/items.py=utf-8
